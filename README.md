@@ -88,13 +88,24 @@ This will change the MAC addresses for wlan0 and eth0 every 5 seconds.
 
 ---
 
-### 3. **License**
+## License
 
-This section includes licensing information. For example, if you are using the MIT License:
 
   
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+ ## Disclaimer
+
+It's often good to include a disclaimer, especially for security-related tools, clarifying that the script should be used responsibly and that the author is not liable for any misuse.
+
+
+
+    This script is provided "as-is" without any warranties or guarantees. The author is not responsible for any misuse or unintended consequences that may arise from using this script. Please use it responsibly and in compliance with your local laws and network policies.
+
+## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/stali.n) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/stalinStanlyjohn) 
+
 
   
 
