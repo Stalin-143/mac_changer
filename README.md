@@ -28,9 +28,6 @@ This script requires the following:
 
 This section guides users on how to install and set up the script on their system. It includes steps for cloning the repository and making the script executable.
 
-Example:
-
-## Installation
 
 1. Clone the repository to your local machine:
 
@@ -60,7 +57,7 @@ Example:
 
 This section explains how to use the script, including input prompts and expected behavior. You should explain the steps the user needs to follow and how the script works.
 
-Example:
+
 
 
 
