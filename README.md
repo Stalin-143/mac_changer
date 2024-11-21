@@ -18,6 +18,11 @@ This script requires the following:
   ```bash
   sudo apt-get install macchanger  # For Debian/Ubuntu-based systems
 
+- On Red Hat-based systems:
+
+  ```bash
+  sudo yum install macchanger
+
 
 ## Installation
 
@@ -40,3 +45,58 @@ Example:
 
    ```bash
      chmod +x mac_changer.sh
+
+4. Run the script
+
+    ```bash
+     sudo bash mac_changer.sh
+
+
+![WhatsApp Image 2024-11-21 at 9 35 58 PM](https://github.com/user-attachments/assets/08b926c9-8a48-4d53-be27-f1225fa444a5)
+
+
+
+## Usage
+
+This section explains how to use the script, including input prompts and expected behavior. You should explain the steps the user needs to follow and how the script works.
+
+Example:
+
+
+
+1. Run the script:
+
+   ```bash
+   ./mac_changer.sh
+
+  Provide the network interfaces to change (e.g., wlan0, eth0).
+
+  Provide the sleep time between MAC changes (in seconds). Enter 0 for infinite cycling (no sleep).
+
+  The script will:
+        Change the MAC address for each interface specified.
+        Sleep for the specified time (or continuously change MAC addresses if sleep time is 0).
+
+
+## Example
+     
+     Enter the network interfaces (e.g., wlan0, eth0): wlan0, eth0
+     Enter the sleep time between MAC changes (in seconds, press 0 for infinite): 5
+
+This will change the MAC addresses for wlan0 and eth0 every 5 seconds.
+
+
+---
+
+### 3. **License**
+
+This section includes licensing information. For example, if you are using the MIT License:
+
+  
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+  
+
+
+
