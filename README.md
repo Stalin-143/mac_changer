@@ -101,10 +101,10 @@ It's often good to include a disclaimer, especially for security-related tools, 
     This script is provided "as-is" without any warranties or guarantees. The author is not responsible for any misuse or unintended consequences that may arise from using this script. Please use it responsibly and in compliance with your local laws and network policies.
 
 ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/stali.n) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/stalinStanlyjohn) 
-
+ [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/stalin143) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/stalinS143) 
 
   
+
 
 
 
